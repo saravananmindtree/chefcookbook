@@ -1,1 +1,1 @@
-cookbook_path [ '/home/radmin/chef-repo/cookbooks' ]
+icookbook_path [ '/home/m1015336/chefcookbook/cookbooks' ]
